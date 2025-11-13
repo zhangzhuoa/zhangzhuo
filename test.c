@@ -2,6 +2,9 @@
 
 int main()
 {
-	printf("testing..\n");
+	printf("adfdafdffas");
+	printf("dfafgdsaggdre");
+
+	sleep(1);
 	return 0;
 }
